@@ -1,0 +1,9 @@
+pip install Flask==2.0.3
+pip install matplotlib
+pip install mysql_connector_repackaged==0.3.1
+pip install numpy==1.23.5
+pip install pandas==1.3.0
+pip install scikit_learn==1.1.3
+pip install seaborn==0.13.2
+pip install tensorflow==2.7.0
+pip install tensorflow_intel==2.15.0
